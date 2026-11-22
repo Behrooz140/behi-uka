@@ -1,0 +1,13 @@
+# Build output
+/out/
+
+# Downloaded upstream sources and intermediate build artifacts
+/tools/src/
+/tools/bin/
+/tools/dl/
+/tools/bin_tmp/
+
+# Local scratch
+/uka_build/
+/_extracted/
+/_verify*/

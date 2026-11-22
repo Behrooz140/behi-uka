@@ -1,0 +1,6 @@
+id=behi_uka
+name=Unpacker Kitchen for Android (UKA) - behi build
+version=6.0 64-bit only
+versionCode=600
+author=behi
+description=Kitchen for unpacking, assembling and converting ROM files (rebuilt by behi)
